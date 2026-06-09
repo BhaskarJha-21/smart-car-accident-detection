@@ -127,18 +127,6 @@ Smart-Car-Accident-Detection-System
 
 ---
 
-## 📸 Project Images
-
-### Demo Setup
-
-![Demo](images/demo.jpg)
-
-### Circuit Diagram
-
-![Circuit Diagram](images/circuit_diagram.png)
-
----
-
 ## 🛠️ Required Libraries
 
 Install the following libraries from Arduino IDE:
