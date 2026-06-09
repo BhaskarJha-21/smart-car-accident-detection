@@ -1,6 +1,6 @@
 # Smart Car Accident Detection System 🚗📡
 
-![Prototype Setup](prototype.png)
+![Prototype Setup](image/Prototype.png)
 
 An Arduino-based IoT safety system that detects vehicle accidents and automatically sends emergency alerts containing GPS coordinates using GSM communication.
 
